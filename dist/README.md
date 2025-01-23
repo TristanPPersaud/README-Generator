@@ -1,8 +1,8 @@
 
-# a
+# README Generator
 
 ## Description
-a
+Every Project needs a good polished README.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,20 +13,20 @@ a
 - [Questions](#questions)
 
 ## Installation
-a
+No installation necessary.
 
 ## Usage
-
+User executes by typing node index in the terminal. Then answers prompted questions for their README. 
 
 ## License
-BSD Zero-Clause
+MIT
 
 ## Contributing
 undefined
 
 ## Tests
-a
+Test by executing code through node index in the terminal
 
 ## Questions
-For any questions, please contact me at [a](mailto:a).
+For any questions, please contact me at [tristanppersaud@gmail.com](mailto:tristanppersaud@gmail.com).
 GitHub: [undefined](https://github.com/undefined)
