@@ -15,7 +15,7 @@ This README generator serves the need to have a professional README file that wi
 No installation necessary.
 
 ## Usage
-Users first run the program by entering "node index" into the terminal. The user is then prompted with several questions related to the README to assist in properly generating a professional README. Once all of the questions are entered correctly, a README.md file is generated in the dist folder.
+Users first run the program by entering "node index" into the terminal. The user is then prompted with several questions related to the README to assist in properly generating a professional README. Once all of the questions are entered correctly, a README.md file is generated in the dist folder. Link to demonstration video : https://drive.google.com/file/d/1L4J87L61dyWDW8eJNSLdSGUBHDi5fK7p/view
 
 ## License
 MIT
